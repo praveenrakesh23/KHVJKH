@@ -1,0 +1,7 @@
+{
+    "name": "campus/canteen",
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "endroid/qr-code": "^6.0"
+    }
+}
